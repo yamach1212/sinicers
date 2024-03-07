@@ -1,0 +1,2 @@
+# sinicers
+sayit yaratish
